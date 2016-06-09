@@ -1,0 +1,39 @@
+﻿```xml
+<Manifest>
+  <AgentType>iOSUnified_UIKit</AgentType>
+  <Resources />
+  <TimeoutSeconds>0</TimeoutSeconds>
+</Manifest>
+```
+```csharp
+// Sketch your next great idea!
+
+using UIKit;
+using Foundation;
+using CoreGraphics;
+
+
+public class Person
+{
+	public string firstName { get; set; } = "First";
+	public string lastName { get; set; } = "Name";
+
+
+	public string greet (string name)
+	{
+		return String.Format ("hello {name}");
+	}
+}
+
+
+
+var person = new Person ();
+var g = person.greet("Steve");
+Console.WriteLine(g);
+
+
+
+
+
+```
+

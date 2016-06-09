@@ -1,0 +1,114 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<document type="com.apple.InterfaceBuilder3.CocoaTouch.Storyboard.XIB" version="3.0" toolsVersion="6211" systemVersion="14A298i" targetRuntime="iOS.CocoaTouch" propertyAccessControl="none" useAutolayout="YES" useTraitCollections="YES" initialViewController="BYZ-38-t0r">
+    <dependencies>
+        <plugIn identifier="com.apple.InterfaceBuilder.IBCocoaTouchPlugin" version="6204"/>
+    </dependencies>
+    <scenes>
+        <!--View Controller-->
+        <scene sceneID="tne-QT-ifu">
+            <objects>
+                <viewController id="BYZ-38-t0r" customClass="ViewController" customModuleProvider="" sceneMemberID="viewController">
+                    <layoutGuides>
+                        <viewControllerLayoutGuide type="top" id="y3c-jy-aDJ"/>
+                        <viewControllerLayoutGuide type="bottom" id="wfy-db-euE"/>
+                    </layoutGuides>
+                    <view key="view" contentMode="scaleToFill" id="8bC-Xf-vdC">
+                        <rect key="frame" x="0.0" y="0.0" width="768" height="1024"/>
+                        <autoresizingMask key="autoresizingMask" widthSizable="YES" heightSizable="YES"/>
+                        <color key="backgroundColor" white="1" alpha="1" colorSpace="custom" customColorSpace="calibratedWhite"/>
+                        <subviews>
+                            <activityIndicatorView opaque="NO" contentMode="scaleToFill" style="gray" translatesAutoresizingMaskIntoConstraints="NO" id="11">
+                                <rect key="frame" x="374" y="502" width="20" height="20"/>
+                            </activityIndicatorView>
+                            <label opaque="NO" clipsSubviews="YES" userInteractionEnabled="NO" contentMode="left" text="Button is Here" lineBreakMode="tailTruncation" minimumFontSize="10" id="16" translatesAutoresizingMaskIntoConstraints="NO" numberOfLines="0" textAlignment="center" misplaced="YES">
+                                <rect key="frame" x="20" y="70" width="560" height="21"/>
+                                <color key="backgroundColor" white="0.0" alpha="0.0" colorSpace="calibratedWhite"/>
+                                <fontDescription key="fontDescription" type="system" pointSize="17"/>
+                                <color key="textColor" cocoaTouchSystemColor="darkTextColor"/>
+                                <nil key="highlightedColor"/>
+                                <constraints>
+                                    <constraint id="26" firstItem="16" firstAttribute="height" constant="21"/>
+                                </constraints>
+                            </label>
+                            <textView clipsSubviews="YES" multipleTouchEnabled="YES" contentMode="scaleToFill" id="33" translatesAutoresizingMaskIntoConstraints="NO">
+                                <rect key="frame" x="10" y="99" width="748" height="384"/>
+                                <color key="backgroundColor" cocoaTouchSystemColor="groupTableViewBackgroundColor"/>
+                                <string key="text">Lorem ipsum dolor sit er elit lamet, consectetaur cillium adipisicing pecu, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum. Nam liber te conscient to factor tum poen legum odioque civiuda.</string>
+                                <fontDescription key="fontDescription" type="system" pointSize="14"/>
+                                <textInputTraits key="textInputTraits" autocapitalizationType="sentences"/>
+                            </textView>
+                            <textField opaque="NO" clipsSubviews="YES" contentMode="scaleToFill" contentHorizontalAlignment="left" contentVerticalAlignment="center" text="Text" borderStyle="roundedRect" minimumFontSize="17" id="49" translatesAutoresizingMaskIntoConstraints="NO">
+                                <rect key="frame" x="10" y="530" width="748" height="30"/>
+                                <fontDescription key="fontDescription" type="system" pointSize="14"/>
+                                <textInputTraits key="textInputTraits"/>
+                                <constraints>
+                                    <constraint id="64" firstItem="49" firstAttribute="height" constant="30"/>
+                                </constraints>
+                            </textField>
+                            <button opaque="NO" contentMode="scaleToFill" contentHorizontalAlignment="center" contentVerticalAlignment="center" buttonType="roundedRect" lineBreakMode="middleTruncation" id="69" translatesAutoresizingMaskIntoConstraints="NO">
+                                <rect key="frame" x="40" y="588" width="688" height="30"/>
+                                <state key="normal" title="Click Me">
+                                    <color key="titleShadowColor" white="0.5" alpha="1" colorSpace="calibratedWhite"/>
+                                </state>
+                                <userDefinedRuntimeAttributes>
+                                    <userDefinedRuntimeAttribute keyPath="accessibilityIdentifier" type="string" value="actionButton"/>
+                                </userDefinedRuntimeAttributes>
+                                <constraints>
+                                    <constraint id="73" firstItem="69" firstAttribute="height" constant="30"/>
+                                </constraints>
+                            </button>
+                            <switch opaque="NO" contentMode="scaleToFill" contentHorizontalAlignment="center" contentVerticalAlignment="center" on="YES" translatesAutoresizingMaskIntoConstraints="NO" id="112">
+                                <rect key="frame" x="275.5" y="626" width="51" height="31"/>
+                            </switch>
+                            <slider opaque="NO" contentMode="scaleToFill" contentHorizontalAlignment="center" contentVerticalAlignment="center" value="0.5" minValue="0.0" maxValue="100" id="127" translatesAutoresizingMaskIntoConstraints="NO">
+                                <rect key="frame" x="18" y="688" width="732" height="31"/>
+                            </slider>
+                            <progressView opaque="NO" contentMode="scaleToFill" progress="0.5" translatesAutoresizingMaskIntoConstraints="NO" id="139">
+                                <rect key="frame" x="20" y="745" width="728" height="2"/>
+                            </progressView>
+                        </subviews>
+                        <constraints>
+                            <constraint id="23" firstItem="16" firstAttribute="top" secondItem="y3c-jy-aDJ" secondAttribute="bottom" constant="50"/>
+                            <constraint id="24" firstItem="16" firstAttribute="leading" secondItem="8bC-Xf-vdC" secondAttribute="leading" constant="20"/>
+                            <constraint id="25" firstItem="8bC-Xf-vdC" firstAttribute="trailing" secondItem="16" secondAttribute="trailing" constant="20"/>
+                            <constraint id="29" firstItem="11" firstAttribute="centerX" secondItem="8bC-Xf-vdC" secondAttribute="centerX"/>
+                            <constraint id="30" firstItem="11" firstAttribute="centerY" secondItem="8bC-Xf-vdC" secondAttribute="centerY"/>
+                            <constraint id="34" firstItem="33" firstAttribute="leading" secondItem="8bC-Xf-vdC" secondAttribute="leading" constant="10"/>
+                            <constraint id="35" firstItem="8bC-Xf-vdC" firstAttribute="trailing" secondItem="33" secondAttribute="trailing" constant="10"/>
+                            <constraint id="36" firstItem="33" firstAttribute="top" secondItem="16" secondAttribute="bottom" constant="8"/>
+                            <constraint id="37" firstItem="33" firstAttribute="top" secondItem="16" secondAttribute="bottom" constant="8"/>
+                            <constraint id="38" firstItem="11" firstAttribute="top" secondItem="33" secondAttribute="bottom" constant="19"/>
+                            <constraint id="62" firstItem="8bC-Xf-vdC" firstAttribute="trailing" secondItem="49" secondAttribute="trailing" constant="10"/>
+                            <constraint id="63" firstItem="49" firstAttribute="top" secondItem="11" secondAttribute="centerY" constant="18"/>
+                            <constraint id="65" firstItem="49" firstAttribute="leading" secondItem="8bC-Xf-vdC" secondAttribute="leading" constant="10"/>
+                            <constraint id="70" firstItem="69" firstAttribute="leading" secondItem="8bC-Xf-vdC" secondAttribute="leading" constant="40"/>
+                            <constraint id="71" firstItem="8bC-Xf-vdC" firstAttribute="trailing" secondItem="69" secondAttribute="trailing" constant="40"/>
+                            <constraint id="72" firstItem="69" firstAttribute="top" secondItem="49" secondAttribute="bottom" constant="28"/>
+                            <constraint id="113" firstItem="112" firstAttribute="top" secondItem="69" secondAttribute="centerY" constant="23"/>
+                            <constraint id="114" firstItem="8bC-Xf-vdC" firstAttribute="centerX" secondItem="112" secondAttribute="centerX" constant="84"/>
+                            <constraint id="128" firstItem="127" firstAttribute="leading" secondItem="8bC-Xf-vdC" secondAttribute="leading" constant="20"/>
+                            <constraint id="129" firstItem="8bC-Xf-vdC" firstAttribute="trailing" secondItem="127" secondAttribute="trailing" constant="20"/>
+                            <constraint id="130" firstItem="127" firstAttribute="top" secondItem="112" secondAttribute="bottom" constant="31"/>
+                            <constraint id="140" firstItem="139" firstAttribute="leading" secondItem="8bC-Xf-vdC" secondAttribute="leading" constant="20"/>
+                            <constraint id="141" firstItem="8bC-Xf-vdC" firstAttribute="trailing" secondItem="139" secondAttribute="trailing" constant="20"/>
+                            <constraint id="142" firstItem="139" firstAttribute="top" secondItem="127" secondAttribute="bottom" constant="27"/>
+                        </constraints>
+                    </view>
+                    <connections>
+                        <outlet property="activityIndicator" destination="11" id="name-outlet-11"/>
+                        <outlet property="buttonLabel" destination="16" id="name-outlet-16"/>
+                        <outlet property="textView" destination="33" id="name-outlet-33"/>
+                        <outlet property="clickButton" destination="69" id="name-outlet-69"/>
+                        <outlet property="textField" destination="49" id="name-outlet-49"/>
+                        <outlet property="colorSwitch" destination="112" id="name-outlet-112"/>
+                        <outlet property="slider" destination="127" id="name-outlet-127"/>
+                        <outlet property="progressBar" destination="139" id="name-outlet-139"/>
+                    </connections>
+                    <simulatedScreenMetrics key="simulatedDestinationMetrics" type="iPad"/>
+                </viewController>
+                <placeholder placeholderIdentifier="IBFirstResponder" id="dkx-z0-nzr" sceneMemberID="firstResponder"/>
+            </objects>
+            <point key="canvasLocation" x="0.0" y="0.0"/>
+        </scene>
+    </scenes>
+</document>
