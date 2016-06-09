@@ -1,0 +1,23 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2012
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TableViewExample", "TableViewExample\TableViewExample.csproj", "{1D84682E-1237-45FF-8955-3F441729BC4B}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|iPhoneSimulator = Debug|iPhoneSimulator
+		Release|iPhone = Release|iPhone
+		Release|iPhoneSimulator = Release|iPhoneSimulator
+		Debug|iPhone = Debug|iPhone
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{1D84682E-1237-45FF-8955-3F441729BC4B}.Debug|iPhone.ActiveCfg = Debug|iPhone
+		{1D84682E-1237-45FF-8955-3F441729BC4B}.Debug|iPhone.Build.0 = Debug|iPhone
+		{1D84682E-1237-45FF-8955-3F441729BC4B}.Debug|iPhoneSimulator.ActiveCfg = Debug|iPhoneSimulator
+		{1D84682E-1237-45FF-8955-3F441729BC4B}.Debug|iPhoneSimulator.Build.0 = Debug|iPhoneSimulator
+		{1D84682E-1237-45FF-8955-3F441729BC4B}.Release|iPhone.ActiveCfg = Release|iPhone
+		{1D84682E-1237-45FF-8955-3F441729BC4B}.Release|iPhone.Build.0 = Release|iPhone
+		{1D84682E-1237-45FF-8955-3F441729BC4B}.Release|iPhoneSimulator.ActiveCfg = Release|iPhoneSimulator
+		{1D84682E-1237-45FF-8955-3F441729BC4B}.Release|iPhoneSimulator.Build.0 = Release|iPhoneSimulator
+	EndGlobalSection
+EndGlobal
