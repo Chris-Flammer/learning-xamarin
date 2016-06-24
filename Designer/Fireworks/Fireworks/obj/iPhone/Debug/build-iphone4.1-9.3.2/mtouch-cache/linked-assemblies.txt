@@ -1,0 +1,4 @@
+/Users/solid/Desktop/Fireworks/Fireworks/obj/iPhone/Debug/build-iphone4.1-9.3.2/mtouch-cache/Link/Xamarin.iOS.dll
+/Users/solid/Desktop/Fireworks/Fireworks/obj/iPhone/Debug/build-iphone4.1-9.3.2/mtouch-cache/Link/Fireworks.exe
+/Users/solid/Desktop/Fireworks/Fireworks/obj/iPhone/Debug/build-iphone4.1-9.3.2/mtouch-cache/Link/System.dll
+/Users/solid/Desktop/Fireworks/Fireworks/obj/iPhone/Debug/build-iphone4.1-9.3.2/mtouch-cache/Link/mscorlib.dll
