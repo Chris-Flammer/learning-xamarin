@@ -1,0 +1,14 @@
+﻿<Properties StartupItem="ProtocolExample/ProtocolExample.csproj">
+  <MonoDevelop.Ide.Workbench ActiveDocument="ProtocolExample/ViewController.cs">
+    <Files>
+      <File FileName="ProtocolExample/AppDelegate.cs" Line="1" Column="1" />
+      <File FileName="ProtocolExample/ViewController.cs" Line="34" Column="3" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug|iPhoneSimulator" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.ItemProperties.ProtocolExample PreferredExecutionTarget="MonoDevelop.IPhone.IPhoneSimulatorTarget.B1130600-50D7-4DF8-A720-059CAE1A2D62" />
+</Properties>

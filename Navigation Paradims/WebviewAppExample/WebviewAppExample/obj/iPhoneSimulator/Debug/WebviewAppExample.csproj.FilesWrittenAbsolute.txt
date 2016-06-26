@@ -1,0 +1,17 @@
+/Users/FishingtonStudios/Projects/WebviewAppExample/WebviewAppExample/obj/iPhoneSimulator/Debug/Xamarin.iOS,Version=v1.0.AssemblyAttribute.cs
+/Users/FishingtonStudios/Projects/WebviewAppExample/WebviewAppExample/obj/iPhoneSimulator/Debug/ibtool/LaunchScreen.storyboardc/01J-lp-oVM-view-Ze5-6b-2t3.nib
+/Users/FishingtonStudios/Projects/WebviewAppExample/WebviewAppExample/obj/iPhoneSimulator/Debug/ibtool/LaunchScreen.storyboardc/Info.plist
+/Users/FishingtonStudios/Projects/WebviewAppExample/WebviewAppExample/obj/iPhoneSimulator/Debug/ibtool/LaunchScreen.storyboardc/UIViewController-01J-lp-oVM.nib
+/Users/FishingtonStudios/Projects/WebviewAppExample/WebviewAppExample/obj/iPhoneSimulator/Debug/ibtool/Main.storyboardc/BYZ-38-t0r-view-2BG-WL-JVn.nib
+/Users/FishingtonStudios/Projects/WebviewAppExample/WebviewAppExample/obj/iPhoneSimulator/Debug/ibtool/Main.storyboardc/Info.plist
+/Users/FishingtonStudios/Projects/WebviewAppExample/WebviewAppExample/obj/iPhoneSimulator/Debug/ibtool/Main.storyboardc/UIViewController-BYZ-38-t0r.nib
+/Users/FishingtonStudios/Projects/WebviewAppExample/WebviewAppExample/obj/iPhoneSimulator/Debug/ibtool/_BundleResourceWithLogicalName.items
+/Users/FishingtonStudios/Projects/WebviewAppExample/WebviewAppExample/obj/iPhoneSimulator/Debug/actool/partial-info.plist
+/Users/FishingtonStudios/Projects/WebviewAppExample/WebviewAppExample/obj/iPhoneSimulator/Debug/actool/asset-manifest.plist
+/Users/FishingtonStudios/Projects/WebviewAppExample/WebviewAppExample/obj/iPhoneSimulator/Debug/actool/_PartialAppManifest.items
+/Users/FishingtonStudios/Projects/WebviewAppExample/WebviewAppExample/obj/iPhoneSimulator/Debug/actool/_BundleResourceWithLogicalName.items
+/Users/FishingtonStudios/Projects/WebviewAppExample/WebviewAppExample/obj/iPhoneSimulator/Debug/optimized/
+/Users/FishingtonStudios/Projects/WebviewAppExample/WebviewAppExample/bin/iPhoneSimulator/Debug/WebviewAppExample.exe.mdb
+/Users/FishingtonStudios/Projects/WebviewAppExample/WebviewAppExample/bin/iPhoneSimulator/Debug/WebviewAppExample.exe
+/Users/FishingtonStudios/Projects/WebviewAppExample/WebviewAppExample/obj/iPhoneSimulator/Debug/WebviewAppExample.exe
+/Users/FishingtonStudios/Projects/WebviewAppExample/WebviewAppExample/obj/iPhoneSimulator/Debug/WebviewAppExample.exe.mdb

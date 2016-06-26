@@ -1,0 +1,13 @@
+﻿<Properties StartupItem="TabbedAppExample/TabbedAppExample.csproj">
+  <MonoDevelop.Ide.Workbench>
+    <Files>
+      <File FileName="TabbedAppExample/AppDelegate.cs" Line="1" Column="1" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug|iPhoneSimulator" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.ItemProperties.TabbedAppExample PreferredExecutionTarget="MonoDevelop.IPhone.IPhoneSimulatorTarget.ED181DE3-7614-4EE2-84B8-6D3932E95034" />
+</Properties>
