@@ -1,0 +1,13 @@
+﻿<Properties StartupItem="Mailbox/Mailbox.csproj">
+  <MonoDevelop.Ide.Workbench ActiveDocument="Mailbox/TableViewController.cs">
+    <Files>
+      <File FileName="Mailbox/TableViewController.cs" Line="11" Column="4" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug|iPhone" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.ItemProperties.Mailbox PreferredExecutionTarget="MonoDevelop.IPhone.IPhoneDeviceTarget.e2cc5afee199e92d0bc31b4e1689ce903e617510" />
+</Properties>
