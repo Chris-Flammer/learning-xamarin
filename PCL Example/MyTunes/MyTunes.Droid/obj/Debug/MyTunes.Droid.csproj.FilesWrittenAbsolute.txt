@@ -1,0 +1,16 @@
+/Users/solid/Downloads/MyTunes/MyTunes.Droid/obj/Debug/MonoAndroid,Version=v6.0.AssemblyAttribute.cs
+/Users/solid/Downloads/MyTunes/MyTunes.Droid/bin/Debug/MyTunes.Droid.dll.mdb
+/Users/solid/Downloads/MyTunes/MyTunes.Droid/bin/Debug/MyTunes.Droid.dll
+/Users/solid/Downloads/MyTunes/MyTunes.Droid/bin/Debug/com.xamarin.MyTunes.apk
+/Users/solid/Downloads/MyTunes/MyTunes.Droid/obj/Debug/android/bin/com.xamarin.MyTunes.apk
+/Users/solid/Downloads/MyTunes/MyTunes.Droid/obj/Debug/res/layout/main.xml
+/Users/solid/Downloads/MyTunes/MyTunes.Droid/obj/Debug/res/values/strings.xml
+/Users/solid/Downloads/MyTunes/MyTunes.Droid/obj/Debug/res/drawable/icon.png
+/Users/solid/Downloads/MyTunes/MyTunes.Droid/obj/Debug/R.cs.flag
+/Users/solid/Downloads/MyTunes/MyTunes.Droid/bin/Debug/com.xamarin.MyTunes-Signed.apk
+/Users/solid/Downloads/MyTunes/MyTunes.Droid/obj/Debug/uploadflags.txt
+/Users/solid/Downloads/MyTunes/MyTunes.Droid/obj/Debug/MyTunes.Droid.dll
+/Users/solid/Downloads/MyTunes/MyTunes.Droid/obj/Debug/MyTunes.Droid.dll.mdb
+/Users/solid/Downloads/MyTunes/MyTunes.Droid/bin/Debug/Newtonsoft.Json.dll
+/Users/solid/Downloads/MyTunes/MyTunes.Droid/bin/Debug/MyTunes.Shared.dll
+/Users/solid/Downloads/MyTunes/MyTunes.Droid/bin/Debug/MyTunes.Shared.dll.mdb

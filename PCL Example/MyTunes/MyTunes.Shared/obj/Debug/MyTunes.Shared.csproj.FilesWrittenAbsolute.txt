@@ -1,0 +1,6 @@
+/Users/solid/Downloads/MyTunes/MyTunes.Shared/obj/Debug/.NETPortable,Version=v4.5,Profile=Profile111.AssemblyAttribute.cs
+/Users/solid/Downloads/MyTunes/MyTunes.Shared/bin/Debug/MyTunes.Shared.dll.mdb
+/Users/solid/Downloads/MyTunes/MyTunes.Shared/bin/Debug/MyTunes.Shared.dll
+/Users/solid/Downloads/MyTunes/MyTunes.Shared/obj/Debug/MyTunes.Shared.dll
+/Users/solid/Downloads/MyTunes/MyTunes.Shared/obj/Debug/MyTunes.Shared.dll.mdb
+/Users/solid/Downloads/MyTunes/MyTunes.Shared/bin/Debug/Newtonsoft.Json.dll
